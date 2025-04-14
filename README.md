@@ -1,5 +1,5 @@
 
-# 🛍️ FastAPI E-commerce Backend
+# FastAPI E-commerce Backend
 
 A modern, high-performance e-commerce backend powered by **FastAPI**. Features include user authentication, product management, shopping cart, and order processing. Built for clean architecture, scalability, and blazing-fast development of online store platforms.
 
@@ -102,4 +102,3 @@ For questions or feedback, feel free to reach out or open an issue!
 
 **Credit**: This project was created by **Pho Keanghour**.
 
----
