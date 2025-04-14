@@ -103,7 +103,3 @@ For questions or feedback, feel free to reach out or open an issue!
 **Credit**: This project was created by **Pho Keanghour**.
 
 ---
-
-```
-
-Let me know your repo name or username if you want me to fill in the clone link or personalize it more!
